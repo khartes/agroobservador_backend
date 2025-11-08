@@ -1,4 +1,4 @@
-# Vazio Sanitário – Backend Stack
+# agroobservador_backend – Backend Stack
 
 Infraestrutura inicial para o hackathon com FastAPI e um banco PostgreSQL/PostGIS que importa automaticamente os geopackages armazenados em `data/`.
 
